@@ -75,7 +75,7 @@ The SaaS and commercial cloud migration tracking ecosystem spans native cloud pr
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-Open-source migration workflow engines, resource collection tools, and assessment protocol servers. *Sorted by GitHub Stars Count (Descending)* 🌟
+Open-source migration workflow engines, resource collection tools, and assessment protocol servers. *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[konveyor/move2kube](https://github.com/konveyor/move2kube)** [![Stars](https://img.shields.io/github/stars/konveyor/move2kube?style=social&color=white)](https://github.com/konveyor/move2kube/stargazers) 🌟  
   **Automated migration & re-platforming tool for Kubernetes**, open-source. **414 stars** . Analyzes legacy application source code, Dockerfiles, and Swarm configs to automatically generate Kubernetes manifests, Helm charts, and Tekton pipelines for cloud-native deployment waves . 🐳
